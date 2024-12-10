@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to bapatla engineering college</h2>
+<h2>department of computer science </h2>
 </body>
 </html>
